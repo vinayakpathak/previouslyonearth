@@ -1,0 +1,17 @@
+---
+layout: base.njk
+---
+<div class="wrap">
+  <section class="latest-section" id="articles" aria-labelledby="articles-title">
+    <div class="section-heading"><h2 class="overline" id="articles-title">Articles</h2></div>
+    <div class="article-list" id="article-list">
+      {% for post in collections.journal %}
+      <article class="featured-post">
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <time class="entry-date" datetime="{{ post.date | dateISO }}">{{ post.date | dateLabel }}</time>
+      </article>
+      {% endfor %}
+    </div>
+    <button class="text-link more-articles" type="button" data-more-articles aria-controls="article-list" hidden>More articles</button>
+  </section>
+</div>
