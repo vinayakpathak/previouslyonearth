@@ -1,4 +1,11 @@
 @font-face {
+  font-family: "Pinyon Script";
+  src: url("/assets/fonts/pinyon-script-regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
   font-family: Cormorant;
   src: url("/assets/fonts/cormorant-garamond-regular.woff2") format("woff2");
   font-style: normal;
@@ -198,20 +205,19 @@ button:disabled {
 }
 .masthead {
   grid-column: 1 / -1;
-  padding: 60px 0 48px;
+  padding: 62px 16px 44px;
   border-bottom: 1px solid var(--line);
-  font-size: clamp(76px, 10.5vw, 152px);
+  font-family: "Pinyon Script", var(--serif);
+  font-size: clamp(72px, 9.5vw, 140px);
+  font-style: normal;
   font-weight: 400;
-  line-height: 1;
-  letter-spacing: -0.055em;
+  font-synthesis: none;
+  line-height: 1.25;
+  letter-spacing: normal;
   text-align: center;
 }
-.masthead span,
-.masthead em {
+.masthead span {
   white-space: nowrap;
-}
-.masthead em {
-  color: var(--accent);
 }
 .site-header--home .main-nav {
   order: 0;
@@ -1401,13 +1407,12 @@ button:disabled {
     padding: 0;
   }
   .masthead {
-    padding: 36px 0 32px;
-    font-size: clamp(72px, 17vw, 110px);
-    line-height: 0.9;
+    padding: 34px 12px 28px;
+    font-size: clamp(64px, 15vw, 100px);
+    line-height: 1.15;
   }
-  .masthead em {
+  .masthead-ending {
     display: block;
-    margin-top: 4px;
   }
   .site-header--home .main-nav {
     min-height: 58px;

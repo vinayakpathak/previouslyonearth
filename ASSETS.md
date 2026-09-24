@@ -4,10 +4,11 @@ All visual assets and typefaces are stored locally. Visiting the website does no
 
 ## Typefaces
 
+- **Pinyon Script** — designed by Nicole Fally, maintained by the Pinyon Project Authors. Latin WOFF2, weight **400**, normal; used for the homepage masthead. Downloaded via the [Google Fonts CSS API](https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap) from the [Google Fonts CDN](https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOqTimDc.woff2). File: `src/assets/fonts/pinyon-script-regular.woff2`.
 - **Cormorant Garamond** — by the Cormorant Project Authors. Latin variable WOFF2, weights **300–700**, normal and italic. Downloaded from Google Fonts. Files: `src/assets/fonts/cormorant-garamond-regular.woff2` and `src/assets/fonts/cormorant-garamond-italic.woff2`.
 - **Inter** — by the Inter Project Authors. Latin variable WOFF2, weights **100–900**, normal. Downloaded from Google Fonts. File: `src/assets/fonts/inter-regular.woff2`.
 
-Both families are licensed under the **SIL Open Font License 1.1**. Their full licenses are included alongside the font files as `Cormorant-Garamond-OFL.txt` and `Inter-OFL.txt`, obtained from the official [Cormorant Garamond](https://github.com/google/fonts/tree/main/ofl/cormorantgaramond) and [Inter](https://github.com/google/fonts/tree/main/ofl/inter) directories in Google Fonts.
+All three families are licensed under the **SIL Open Font License 1.1**. Their full licenses are included alongside the font files as `Pinyon-Script-OFL.txt`, `Cormorant-Garamond-OFL.txt`, and `Inter-OFL.txt`, obtained from the official [Pinyon Script](https://github.com/google/fonts/tree/main/ofl/pinyonscript), [Cormorant Garamond](https://github.com/google/fonts/tree/main/ofl/cormorantgaramond), and [Inter](https://github.com/google/fonts/tree/main/ofl/inter) directories in Google Fonts. The Pinyon Script license credits the Pinyon Project Authors (2024); its upstream project is [SorkinType/Pinyon](https://github.com/SorkinType/Pinyon).
 
 The downloaded Latin subsets include English, common Western European accented characters, and standard punctuation. Additional language subsets may be needed for writing in other scripts.
 

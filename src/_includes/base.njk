@@ -16,6 +16,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   {% endif %}
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  {% if page.url == '/' %}<link rel="preload" href="/assets/fonts/pinyon-script-regular.woff2" as="font" type="font/woff2" crossorigin>{% endif %}
   <link rel="preload" href="/assets/fonts/cormorant-garamond-regular.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/cormorant-garamond-italic.woff2" as="font" type="font/woff2" crossorigin>
   <script src="/assets/theme.js"></script>
@@ -26,7 +27,7 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header{% if page.url == '/' %} site-header--home{% endif %} wrap">
     {% if page.url == '/' %}
-      <h1 class="masthead"><a href="/" aria-label="{{ site.title }}, home"><span>Previously</span> <em>on Earth.</em></a></h1>
+      <h1 class="masthead"><a href="/" aria-label="{{ site.title }}, home"><span>Previously</span> <span class="masthead-ending">on earth</span></a></h1>
     {% else %}
       <a class="wordmark" href="/" aria-label="Previously on Earth, home">{{ star() }}<span>Previously on Earth<span class="wordmark-period">.</span></span></a>
     {% endif %}

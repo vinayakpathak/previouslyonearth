@@ -1,6 +1,6 @@
 # Previously on Earth
 
-A minimalist history blog built with Eleventy. The image-free homepage uses typography to present searchable articles, with an independent bookshelf and light and dark appearances. The typography pairs Cormorant Garamond with Inter; both fonts are served locally.
+A minimalist history blog built with Eleventy. The image-free homepage uses typography to present searchable articles, with an independent bookshelf and light and dark appearances. Pinyon Script provides the calligraphic homepage masthead, with Cormorant Garamond for reading and Inter for navigation. All fonts are served locally.
 
 ## Start locally
 
