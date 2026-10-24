@@ -1,107 +1,80 @@
 # Previously on Earth
 
-A minimalist history blog built with Eleventy. The image-free homepage uses typography to present searchable articles, with an independent bookshelf and light and dark appearances. Pinyon Script provides the calligraphic homepage masthead, with Cormorant Garamond for reading and Inter for navigation. All fonts are served locally.
+A book of history, written while reading it. It is typeset with [Typst](https://typst.app).
 
-## Start locally
-
-Install [Node.js](https://nodejs.org/) 18 or newer, then run these commands from this folder:
+## Typeset the book
 
 ```sh
-npm install
-npm run dev
+make          # previously-on-earth.pdf
+make watch    # re-typeset whenever a file is saved
+make print    # previously-on-earth-print.pdf, on white paper for printing
 ```
 
-Open **http://localhost:4321**. Saving content or templates rebuilds the site and refreshes the preview.
+Typst 0.15.1 is installed at `~/.local/bin/typst`. The first run downloads one small Typst package, [droplet](https://typst.app/universe/package/droplet), which flows the text around the decorated initials. After that the book builds offline.
 
-## Make it yours
+In VS Code, the Tinymist extension shows a live preview. Open `book.typ` and run **Typst Preview: Preview Opened File**. `.vscode/settings.json` points Tinymist to the book's fonts. If it reports an unknown font, reload the window once.
 
-- Edit the sample essay in [`src/posts/rome-wasnt-built-in-a-story.md`](src/posts/rome-wasnt-built-in-a-story.md). It is a starting draft with a sample notice.
-- Update the reading list in [`src/_data/books.json`](src/_data/books.json).
-- Change the site title and description in [`src/_data/site.js`](src/_data/site.js), and the personal introduction in [`src/about.njk`](src/about.njk).
-- Page layouts live in `src/_includes/`; the homepage is `src/index.njk`.
+## Write a chapter
 
-The sample essay’s date is a placeholder. Replace it with your own date and remove the sample notice when you have edited the essay into your own entry.
+Each chapter is a file in `chapters/`, and starts like this:
 
-## Add an essay
+```typst
+#import "../template/design.typ": *
 
-Create a Markdown file inside `src/posts/`. Begin with this front matter, changing the title, date, description, and permalink:
+#show: chapter.with(
+  title: [The Fall of Constantinople],
+  era: [AD 1453],                        // optional
+  epigraph: [A quotation, if you like.], // optional
+  source: [Its author, _Its Book_],      // optional
+)
 
-```markdown
----
-title: A question from the margins
-date: 2026-09-24
-description: A short introduction to this entry and the question it explores.
-layout: post.njk
-tags:
-  - posts
-permalink: /journal/a-question-from-the-margins/
----
+The first paragraph starts here and gets the decorated initial.
 
-Begin your essay here. Its opening paragraph receives a drop cap.
+= A section
 
-## A thought worth following
-
-Continue in Markdown, with headings, links, and reading notes as needed.
+More paragraphs.
 ```
 
-Give every essay a unique `permalink`, beginning with `/journal/` and ending with `/`. Article headers and listings show only the title and date. The title is rendered automatically, so begin the body with a paragraph and use `##` for section headings.
+Then add the chapter to the list at the bottom of `book.typ`, in reading order:
 
-The homepage lists articles by date, newest first. It initially shows five articles, with a **More articles** button to reveal the rest on the same page. Without JavaScript, all articles are visible. There is no separate journal listing page; the `/journal/` prefix is kept for individual article URLs.
-
-The optional `description` provides a short summary for page metadata and search. Optional `category` and `era` fields can add search keywords.
-
-Essays are text-only by default; no image fields are needed. To include an image, save it in `src/assets/images/` and insert it directly into the Markdown body wherever you want it to appear:
-
-```markdown
-A paragraph introducing the image.
-
-![A description of what the image shows](/assets/images/your-image.jpg)
-
-Continue your essay here.
+```typst
+#include "chapters/03-the-fall-of-constantinople.typ"
 ```
 
-Images scale to the essay’s width. Use an image you have permission to publish and give it descriptive alternative text.
+Each chapter opens on a right-hand page with its number, title, and dates. The first paragraph gets the decorated initial, and its first few words are set in small capitals. To begin a chapter without the initial, add `initial: false`.
 
-## Maintain the bookshelf
+Inside a chapter:
 
-`src/_data/books.json` is a JSON array. All books appear in one list, in the order they are written here. Add a comma between book objects and keep each `id` unique; lowercase words separated by hyphens work well.
+| Write | For |
+| --- | --- |
+| a blank line | a new paragraph |
+| `_words_` | italics |
+| `= Heading` | a section, in spaced small capitals |
+| `== Heading` | a subsection, in italics |
+| `#ornament` | a rosette marking a break in the narrative |
+| `#footnote[…]` | a footnote (numbering restarts each chapter) |
+| `#quote(block: true, attribution: [Livy])[…]` | an indented quotation |
+| `@gibbon` or `@gibbon[ch. 3]` | a citation, which becomes a footnote |
 
-```json
-{
-  "id": "your-book-id",
-  "title": "Book title",
-  "subtitle": "An optional subtitle",
-  "author": "Author name",
-  "year": 2026,
-  "cover": "/assets/images/books/your-book.jpg",
-  "coverWidth": 600,
-  "coverHeight": 900,
-  "url": "https://example.com/book"
-}
-```
+Straight quotes (`"…"`) and dashes (`--` for –, `---` for —) are converted to their typographic forms.
 
-Save a cover image in `src/assets/images/books/`, set `cover` to its public path, and record the image’s actual pixel dimensions in `coverWidth` and `coverHeight`. The cover appears on the bookshelf. If no cover is supplied, a typographic cover is used as a fallback. The book title links to `url`. Bookshelf entries are maintained independently of articles.
+## The bookshelf
 
-Existing `status`, `finished`, and `note` fields can remain as optional reading records, but the bookshelf displays a single list without status labels or filters. If you use `status`, its allowed values are **Read**, **Reading**, and **To read**.
+`books.yml` lists the books you have read for the book. All of them appear at the back under **Bookshelf**, cited or not. Each entry has a key, like `gibbon:`, that you use to cite it. The format is [Hayagriva's](https://github.com/typst/hayagriva/blob/main/docs/file-format.md).
 
-Search runs in the visitor’s browser using an index generated from your content. It needs no account, API key, or external search service. Rebuild after adding or editing content.
+## The samples
 
-## Build and publish
+The two chapters in `chapters/` and the three entries in `books.yml` are samples that show the design. The chapters are Thucydides and Gibbon in public-domain texts. Delete them, and their `#include` lines in `book.typ`, when you start writing. If `books.yml` is left with no entries, the Bookshelf page comes out empty. To leave it out, delete the `bibliography:` line in `book.typ`.
 
-```sh
-npm run build
-```
+The title, subtitle, author, and the epigraph from Herodotus (in Greek and English) are at the top of `book.typ`.
 
-Eleventy writes the finished site to **`_site/`**. Edit files in `src/`; generated files in `_site/` are replaced on the next build.
+## The design
 
-Run `npm run check` after a build to check post front matter, bookshelf data, local links, search destinations, and assets.
+`template/design.typ` controls the look of the book: page size (6 × 9 in), margins, colours, type sizes, chapter openings, running heads, contents, bookshelf, and colophon. `template/initials.typ` makes the decorated initials.
 
-On a static hosting service, use **`npm run build`** as the build command and **`_site`** as the publish directory. Deploy at the root of your domain, since links and assets use paths beginning with `/`.
+- **Text:** EB Garamond 11.5 pt, with old-style figures and true small capitals
+- **Titles and chapter numerals:** Cormorant Garamond Light
+- **Initials and the ornament:** Zallman Caps, in rubric red
+- **Paper:** warm off-white on screen; `make print` uses white
 
-Optionally set the host’s `SITE_URL` environment variable to your production origin, for example `https://your-domain.com`. This enables absolute canonical URLs and social sharing metadata. For a local production build:
-
-```sh
-SITE_URL=https://your-domain.com npm run build
-```
-
-Font licenses, artwork credits, and original asset sources are documented in [`ASSETS.md`](ASSETS.md).
+The fonts are in `fonts/`, so the book looks the same on any machine. Their sources and licences are in [fonts/README.md](fonts/README.md).

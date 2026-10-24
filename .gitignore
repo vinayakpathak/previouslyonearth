@@ -1,7 +1,6 @@
-node_modules/
-_site/
+# Typeset editions; rebuild them with `make`.
+/previously-on-earth.pdf
+/previously-on-earth-print.pdf
+
 .DS_Store
-.env
-.env.*
-!.env.example
-.cache/
+__pycache__/
