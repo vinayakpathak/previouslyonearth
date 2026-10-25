@@ -41,6 +41,8 @@ Then add the chapter to the list at the bottom of `book.typ`, in reading order:
 #include "chapters/03-the-fall-of-constantinople.typ"
 ```
 
+The chapters are grouped into parts: Argentina, Germany, and India. Each part starts with a `#part[…]` line in `book.typ`, which gives it a title page on a right-hand page. Put each chapter's `#include` under the part it belongs to. Chapters are numbered straight through the book.
+
 Each chapter opens on a right-hand page with its number, title, and dates. The first paragraph gets the decorated initial, and its first few words are set in small capitals. To begin a chapter without the initial, add `initial: false`.
 
 Inside a chapter:
@@ -54,19 +56,21 @@ Inside a chapter:
 | `#ornament` | a rosette marking a break in the narrative |
 | `#footnote[…]` | a footnote (numbering restarts each chapter) |
 | `#quote(block: true, attribution: [Livy])[…]` | an indented quotation |
-| `@gibbon` or `@gibbon[ch. 3]` | a citation, which becomes a footnote |
+| `@bridges` or `@bridges[p. 12]` | a citation, which becomes a footnote |
 
 Straight quotes (`"…"`) and dashes (`--` for –, `---` for —) are converted to their typographic forms.
 
 ## The bookshelf
 
-`books.yml` lists the books you have read for the book. All of them appear at the back under **Bookshelf**, cited or not. Each entry has a key, like `gibbon:`, that you use to cite it. The format is [Hayagriva's](https://github.com/typst/hayagriva/blob/main/docs/file-format.md).
+`books.yml` lists the books you have read for the book. All of them appear at the back under **Bookshelf**, cited or not. Each entry has a key, like `bridges:`, that you use to cite it. The format is [Hayagriva's](https://github.com/typst/hayagriva/blob/main/docs/file-format.md).
 
 ## The samples
 
-The two chapters in `chapters/` and the three entries in `books.yml` are samples that show the design. The chapters are Thucydides and Gibbon in public-domain texts. Delete them, and their `#include` lines in `book.typ`, when you start writing. If `books.yml` is left with no entries, the Bookshelf page comes out empty. To leave it out, delete the `bibliography:` line in `book.typ`.
+`chapters/02-the-age-of-the-antonines.typ` is a sample chapter, from Gibbon's public-domain text, that shows the design. Delete it, and its `#include` line in `book.typ`, when you no longer need it. If `books.yml` is left with no entries, the Bookshelf page comes out empty. To leave it out, delete the `bibliography:` line in `book.typ`.
 
-The title, subtitle, author, and the epigraph from Herodotus (in Greek and English) are at the top of `book.typ`.
+The title, subtitle, and author are at the top of `book.typ`. To add an epigraph page after the copyright page, pass `epigraph:` and `epigraph-source:` there too.
+
+The front cover shows the title, the `tagline:` from `book.typ`, and the author. A tagline of two lines, like `([A History of the World], [The Bits I Have Read About So Far])`, is joined by "or,". `make print` leaves the cover out.
 
 ## The design
 
@@ -76,5 +80,6 @@ The title, subtitle, author, and the epigraph from Herodotus (in Greek and Engli
 - **Titles and chapter numerals:** Cormorant Garamond Light
 - **Initials and the ornament:** Zallman Caps, in rubric red
 - **Paper:** warm off-white on screen; `make print` uses white
+- **Cover:** gold lettering on oxblood cloth, inside a double rule
 
 The fonts are in `fonts/`, so the book looks the same on any machine. Their sources and licences are in [fonts/README.md](fonts/README.md).

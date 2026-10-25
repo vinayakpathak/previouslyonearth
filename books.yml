@@ -1,34 +1,14 @@
 # The bookshelf: every book read for this book, cited or not. All of them are
 # listed at the back under "Bookshelf".
 #
-# Cite one in a chapter with its key: @gibbon, or with a location,
-# @gibbon[ch. I]. Citations become footnotes.
+# Cite one in a chapter with its key: @bridges, or with a location,
+# @bridges[p. 12]. Citations become footnotes.
 #
 # The format is Hayagriva's:
 # https://github.com/typst/hayagriva/blob/main/docs/file-format.md
-#
-# These entries are the sources of the sample chapters.
 
-gibbon:
+bridges:
   type: book
-  title: The History of the Decline and Fall of the Roman Empire
-  author: Gibbon, Edward
-  date: 1776
-
-herodotus:
-  type: book
-  title: The Histories
-  author: Herodotus
-  affiliated:
-    - role: translator
-      names: Godley, A. D.
-  date: 1920
-
-thucydides:
-  type: book
-  title: History of the Peloponnesian War
-  author: Thucydides
-  affiliated:
-    - role: translator
-      names: Crawley, Richard
-  date: 1874
+  title: Uttermost Part of the Earth
+  author: Bridges, E. Lucas
+  date: 1948
