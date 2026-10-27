@@ -136,6 +136,27 @@ timerman:
       book. In the end the book was quite short, so it was quick to finish
       after skimming over the second half.
 
+durrell:
+  type: book
+  title: The Whispering Land
+  author: Durrell, Gerald
+  date: 1961
+  topics: [Argentina, Patagonia, Jujuy, wildlife, natural history, estancias, 20th century]
+  form: travel memoir
+  read:
+    when: 2026
+    status: finished
+    difficulty: easy
+    engagement: good
+    learned: |
+      Some animals that are found there. I got enamoured by penguins and sea
+      lions. I learned about estancias: apparently that was how people used
+      to live back then in the pampas.
+    thoughts: |
+      I read this because I also got interested in understanding the flora
+      and fauna of Argentina. The book was entertaining throughout because of
+      the author's humour.
+
 bridges:
   type: book
   title: Uttermost Part of the Earth
