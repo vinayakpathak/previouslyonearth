@@ -22,6 +22,10 @@ disagree with.
 
 - **Material beyond what you came for:** a long tangent, or every claim
   weighed from all angles. *(timerman, hedges)*
+- **A personal story that leaves the country out.** Mangold's memoir was a
+  childhood at school with almost nothing about Germany, and you skimmed the
+  second half. A memoir works for you when it teaches the place and its
+  history along the way. *(mangold, against france and winter)*
 - **Repetition and padding, not length.** Bridges felt twice as long as it
   needed to be, but Gilliland, at about 470 pages, was hard to put down.
   *(bridges, gilliland)*

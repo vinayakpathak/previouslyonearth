@@ -281,3 +281,24 @@ bridges:
       because of the length it was difficult to remember who did what. Also
       the characters had hard-to-remember names, because they were from the
       tribes.
+
+mangold:
+  type: book
+  title: "The German Crocodile: A Literary Memoir"
+  author: Mangold, Ijoma
+  affiliated:
+    - role: translator
+      names: Kemp, Ruth Ahmedzai
+  date: 2021
+  topics: [Germany, West Germany, Heidelberg, race, identity, 20th century]
+  form: memoir
+  read:
+    when: 2026-10
+    status: finished
+    difficulty: easy
+    engagement: slog
+    thoughts: |
+      It was quite bad, because there was pretty much nothing in there about
+      Germany. It was just a child going to school and the stories around
+      it. I read maybe half of it seriously, but then I skimmed through the
+      second half. I didn't find it engaging.
