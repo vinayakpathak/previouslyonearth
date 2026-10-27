@@ -16,6 +16,7 @@ margin of what they already know. Look for books that
 ## 1. Read everything they have written
 
 - `books.yml`: every book they have read, in the order they read them. An entry's `topics` say what the book is about and its `form` what kind of book it is, such as travel memoir or narrative history. Its `read:` section holds their verdict: difficulty, engagement, what they learned, the questions it left them with, and their thoughts. Read every entry, not just the ones on the topic asked about, since their taste shows across all of them.
+- `reading-patterns.md`: the conclusions so far about how they read, each naming the books it rests on. Start from these, but check them against `books.yml`, and fix any that no longer hold.
 - `chapters/*.typ`: their own notes in *Previously, on Earth*. They show what they have absorbed, what they find interesting, and where their knowledge is thin. `book.typ` lists the parts, which are the places they are writing about.
 - `recommendations.md`: what has been recommended before, and how the picks they read went.
 

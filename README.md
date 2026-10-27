@@ -68,7 +68,7 @@ Straight quotes (`"…"`) and dashes (`--` for –, `---` for —) are converted
 
 ## What to read next
 
-Ask Claude for a book, for example "a new book about Germany", or run `/recommend-books`. It reads `books.yml` and your chapters, and recommends a few books at the margin of what you know: ones that build on what you have read, are a little harder than comfortable, and are written in a way you have enjoyed. Each round of recommendations is recorded in `recommendations.md`.
+Ask Claude for a book, for example "a new book about Germany", or run `/recommend-books`. It reads `books.yml` and your chapters, and recommends a few books at the margin of what you know: ones that build on what you have read, are a little harder than comfortable, and are written in a way you have enjoyed. Each round of recommendations is recorded in `recommendations.md`. What Claude has concluded about how you read, such as which kinds of book work for you and which don't, is kept in `reading-patterns.md`, with the books each conclusion rests on. Edit anything you disagree with.
 
 The steps it follows are in `.claude/skills/recommend-books/SKILL.md`, and `CLAUDE.md` tells Claude how this repo works. Both are in git, so they work on any computer with this repo.
 
