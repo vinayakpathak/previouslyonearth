@@ -106,6 +106,36 @@ hedges:
       about Eva Perón and could have skipped on some of those details. But I
       still did learn a bit about Eva Perón.
 
+timerman:
+  type: book
+  title: Prisoner Without a Name, Cell Without a Number
+  author: Timerman, Jacobo
+  affiliated:
+    - role: translator
+      names: Talbot, Toby
+  date: 1981
+  topics: [Argentina, Dirty War, 20th century, torture, antisemitism, journalism]
+  form: memoir
+  read:
+    when: 2026
+    status: finished
+    difficulty: easy
+    engagement: okay
+    learned: |
+      Details of some of the torture that the dictatorship inflicted upon
+      the people. That there were very few English-language newspapers in
+      Buenos Aires, and the author's newspaper was one of them.
+    thoughts: |
+      This book was quite interesting in the first half. I had just learned
+      about the dictatorship in the previous couple of books, and this book
+      had started to go into the details of some of the torture that the
+      dictatorship inflicted upon the people. So I was quite engrossed. But
+      then in the second half the author made it into an anti-semitic issue
+      and then went on a long tangent about anti-semitism. I got quite bored
+      when that happened, because that wasn't the reason I was reading the
+      book. In the end the book was quite short, so it was quick to finish
+      after skimming over the second half.
+
 bridges:
   type: book
   title: Uttermost Part of the Earth
