@@ -69,7 +69,10 @@ france:
     difficulty: moderate
     engagement: gripping
     learned: |
-      Quite a bit of Argentina's history, alongside life in Buenos Aires.
+      Quite a bit, including some main events in Argentinian history in the
+      20th century.
+    questions: |
+      Eva Perón, whom it mentioned a few times.
     thoughts: |
       I really loved this book. In general I enjoy books written in the
       style of a travel memoir, but with history lessons interspersed. The
@@ -78,6 +81,30 @@ france:
       only her description of the travel. She would also teach about the
       history of Argentina every now and then. I got to learn quite a bit.
       It was a good deeper book after the first book's intro.
+
+hedges:
+  type: book
+  title: "Evita: The Life of Eva Perón"
+  author: Hedges, Jill
+  date: 2017
+  topics: [Argentina, Eva Perón, Peronism, 20th century]
+  form: academic biography
+  read:
+    when: 2026
+    status: finished
+    difficulty: moderate
+    engagement: okay
+    learned: |
+      A bit about Eva Perón.
+    thoughts: |
+      Miranda France's book mentioned Eva Perón a few times. So the next
+      book I read was this biography. While this was reasonably educational,
+      it felt quite academic as opposed to narrative. The author was trying
+      hard to get to the actual truth. Every time she would mention a
+      controversial opinion, she would examine it from all angles to make
+      sure she wasn't claiming something wrong. I didn't really care so much
+      about Eva Perón and could have skipped on some of those details. But I
+      still did learn a bit about Eva Perón.
 
 bridges:
   type: book
