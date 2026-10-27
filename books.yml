@@ -157,6 +157,30 @@ durrell:
       and fauna of Argentina. The book was entertaining throughout because of
       the author's humour.
 
+winter:
+  type: book
+  title: "Long After Midnight at the Niño Bien: A Yanqui's Missteps in Argentina"
+  author: Winter, Brian
+  date: 2008
+  topics: [Argentina, Buenos Aires, tango, 2001 economic crisis, 21st century]
+  form: travel memoir
+  read:
+    when: 2026
+    status: finished
+    difficulty: easy
+    engagement: good
+    learned: |
+      A good amount. The tango culture became familiar to me, and I learned
+      how the country deals with an economic crisis.
+    thoughts: |
+      I was sceptical about this book in the beginning. It just seemed like
+      a horny guy trying to get laid in a new country. I wasn't really
+      learning a lot about Argentina. But after about 1/3rd of the book it
+      picked up and the tango culture started to become familiar to me.
+      Later on an economic crisis happens and the author described how the
+      country deals with it. It was engaging to read and I did end up
+      learning a good amount.
+
 bridges:
   type: book
   title: Uttermost Part of the Earth
