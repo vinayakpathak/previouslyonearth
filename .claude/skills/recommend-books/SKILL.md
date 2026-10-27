@@ -15,7 +15,7 @@ margin of what they already know. Look for books that
 
 ## 1. Read everything they have written
 
-- `books.yml`: every book they have read. An entry's `topics` say what the book is about, and its `read:` section holds their verdict: difficulty, engagement, what they learned, the questions it left them with, and their thoughts. Read every entry, not just the ones on the topic asked about, since their taste shows across all of them.
+- `books.yml`: every book they have read, in the order they read them. An entry's `topics` say what the book is about and its `form` what kind of book it is, such as travel memoir or narrative history. Its `read:` section holds their verdict: difficulty, engagement, what they learned, the questions it left them with, and their thoughts. Read every entry, not just the ones on the topic asked about, since their taste shows across all of them.
 - `chapters/*.typ`: their own notes in *Previously, on Earth*. They show what they have absorbed, what they find interesting, and where their knowledge is thin. `book.typ` lists the parts, which are the places they are writing about.
 - `recommendations.md`: what has been recommended before, and how the picks they read went.
 
@@ -25,7 +25,7 @@ For the topic asked about, or, if none was given, for the threads their reading 
 
 - **What do they already know?** List the books they have read on it, by `topics` and by judgement (a book on the Thirty Years' War is about Germany even if not tagged so), and what their chapters cover.
 - **How hard should it be?** Calibrate against the books they rated, how engaging each was at that difficulty, and why they found them hard (a dense argument, many names, unfamiliar background). Aim a little past what they found moderate, and well short of too hard.
-- **What keeps them reading?** Look for patterns in engagement and thoughts: length, editing, pace, narrative or argument, memoir or synthesis.
+- **What keeps them reading?** Look for patterns in engagement and thoughts: form, length, editing, pace, narrative or argument.
 - **What have they asked?** A book that answers one of their open questions is usually the best pick.
 
 If the request is too vague to place, ask one question before searching.

@@ -9,8 +9,9 @@ This repo has two purposes.
 
 When the user tells you about a book they have read, add it to `books.yml`, or update its entry. The fields are described at the top of that file.
 
-- Check the title, author and year of first publication, and look them up if unsure.
-- Give it `topics`: places (countries, then regions), periods (centuries or named eras) and themes. Reuse topics already in the file before making new ones.
+- Check the title, author and year of first publication, and look them up if unsure. For a translation, give the translator and the year of the translation they read.
+- Add new books at the end, since the file is in the order they were read.
+- Give it `topics`: places (countries, then regions), periods (centuries or named eras) and themes. Reuse topics already in the file before making new ones. Give its `form` too, such as travel memoir or narrative history.
 - Fill in `read:` from what they said. Keep their words, fixing only typos, and don't add opinions they didn't give. If `status`, `difficulty` or `engagement` isn't clear, make your best guess and tell them which fields you guessed.
 - If the book was recommended in `recommendations.md`, note there how it went.
 - Run `make` to check that the book still builds.

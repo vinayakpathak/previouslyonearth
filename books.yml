@@ -1,19 +1,23 @@
-# Every book read for this book, with notes on each.
+# Every book read for this book, in the order read, with notes on each.
 #
 # All of them are listed at the back of the book under "Bookshelf", cited or
 # not. Cite one in a chapter with its key: @bridges, or with a location,
 # @bridges[p. 12]. Citations become footnotes.
 #
-# The book's details (type, title, author, date) are in Hayagriva's format:
+# The book's details (type, title, author, translator, date) are in
+# Hayagriva's format:
 # https://github.com/typst/hayagriva/blob/main/docs/file-format.md
 #
-# Two more fields are for choosing what to read next. They never appear in
+# Three more fields are for choosing what to read next. They never appear in
 # the book.
 #
 #   topics       places (countries, then regions), periods (centuries or
 #                named eras) and themes, e.g. [Germany, 19th century,
 #                industrial revolution]. Reuse a topic already used here
 #                before making a new one.
+#   form         the kind of book: travel memoir, memoir, narrative
+#                journalism, narrative history, biography, academic history
+#                and so on
 #   read:        what you made of the book
 #     when         month you finished or stopped, e.g. 2026-10
 #     status       finished, reading or abandoned
@@ -25,12 +29,63 @@
 #
 # Only status, difficulty and engagement are needed.
 
+guerriero:
+  type: book
+  title: "A Simple Story: The Last Malambo"
+  author: Guerriero, Leila
+  affiliated:
+    - role: translator
+      names: Riddle, Frances
+  date: 2017
+  topics: [Argentina, Córdoba, malambo, folk dance, 21st century]
+  form: narrative journalism
+  read:
+    when: 2026
+    status: finished
+    difficulty: easy
+    engagement: gripping
+    learned: |
+      A cultural aspect of Argentina: malambo, the dance the book is about.
+    thoughts: |
+      I quite enjoyed the book. It was short and it followed a small number
+      of real-life people. And it taught me about a cultural aspect of
+      Argentina. It was great to set the setting. The people's lives were
+      interesting. They were relatable even though they were about a
+      specific dance. But there was passion. And there was drama. There was
+      suspense about whether the main character was going to win or not.
+      And the author did an excellent job at getting to know the people she
+      wrote about. Overall an excellent reading experience.
+
+france:
+  type: book
+  title: Bad Times in Buenos Aires
+  author: France, Miranda
+  date: 1998
+  topics: [Argentina, Buenos Aires, Dirty War, 20th century]
+  form: travel memoir
+  read:
+    when: 2026
+    status: finished
+    difficulty: moderate
+    engagement: gripping
+    learned: |
+      Quite a bit of Argentina's history, alongside life in Buenos Aires.
+    thoughts: |
+      I really loved this book. In general I enjoy books written in the
+      style of a travel memoir, but with history lessons interspersed. The
+      author went to Buenos Aires and lived there for a while and explored
+      the city and the life and wrote about it in the book. But it wasn't
+      only her description of the travel. She would also teach about the
+      history of Argentina every now and then. I got to learn quite a bit.
+      It was a good deeper book after the first book's intro.
+
 bridges:
   type: book
   title: Uttermost Part of the Earth
   author: Bridges, E. Lucas
   date: 1948
   topics: [Argentina, Chile, Tierra del Fuego, Selk'nam, Yaghan, indigenous peoples, missionaries, settlers, 19th century, 20th century]
+  form: memoir
   read:
     when: 2026-09
     status: finished

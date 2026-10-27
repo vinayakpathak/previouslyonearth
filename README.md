@@ -64,7 +64,7 @@ Straight quotes (`"…"`) and dashes (`--` for –, `---` for —) are converted
 
 `books.yml` lists the books you have read for the book. All of them appear at the back under **Bookshelf**, cited or not. Each entry has a key, like `bridges:`, that you use to cite it. The format is [Hayagriva's](https://github.com/typst/hayagriva/blob/main/docs/file-format.md).
 
-`books.yml` is also your reading record. Each entry has `topics` (places, periods and themes) and a `read:` section with your notes: how hard and how engaging you found the book, what you learned, what it left you curious about, and anything else. These never appear in the book. The fields are described at the top of `books.yml`. You don't have to write them yourself: tell Claude what you thought of a book and it will add the entry.
+`books.yml` is also your reading record. Each entry has `topics` (places, periods and themes), a `form` (the kind of book, such as travel memoir) and a `read:` section with your notes: how hard and how engaging you found the book, what you learned, what it left you curious about, and anything else. These never appear in the book. The fields are described at the top of `books.yml`. You don't have to write them yourself: tell Claude what you thought of a book and it will add the entry.
 
 ## What to read next
 
