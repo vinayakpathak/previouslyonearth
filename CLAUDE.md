@@ -14,6 +14,7 @@ When the user tells you about a book they have read, add it to `books.yml`, or u
 - Fill in `read:` from what they said. Keep their words, fixing only typos, and don't add opinions they didn't give. If `status`, `difficulty` or `engagement` isn't clear, make your best guess and tell them which fields you guessed.
 - If the book was recommended in `recommendations.md`, note there how it went.
 - Run `make` to check that the book still builds.
+- Commit and push to `main` without asking, so the record is the same on every computer.
 
 ## Recommending books
 
@@ -21,4 +22,4 @@ Use the `recommend-books` skill.
 
 ## Git
 
-When asked to commit or push, commit straight to `main` and push `main`, unless told otherwise.
+Commit straight to `main` and push `main`, unless told otherwise. Do this when asked, and after logging a book.

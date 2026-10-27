@@ -17,7 +17,7 @@
 #   read:        what you made of the book
 #     when         month you finished or stopped, e.g. 2026-10
 #     status       finished, reading or abandoned
-#     difficulty   too easy, easy, just right, hard or too hard
+#     difficulty   too easy, easy, moderate, hard or too hard
 #     engagement   gripping, good, okay or slog
 #     learned      what it taught you that you didn't know
 #     questions    what it left you curious about
@@ -32,8 +32,9 @@ bridges:
   date: 1948
   topics: [Argentina, Chile, Tierra del Fuego, Selk'nam, Yaghan, indigenous peoples, missionaries, settlers, 19th century, 20th century]
   read:
+    when: 2026-09
     status: finished
-    difficulty: easy
+    difficulty: moderate
     engagement: okay
     learned: |
       A reasonable amount about the Yaghans and the Onas (Selk'nam): their
@@ -50,3 +51,8 @@ bridges:
       contain animals, goes out hunting for guanaco meat, and so on. After a
       while it became rather repetitive. It could have been cut down to half
       its size.
+
+      Difficulty was kind of moderate. It did have a lot of characters, and
+      because of the length it was difficult to remember who did what. Also
+      the characters had hard-to-remember names, because they were from the
+      tribes.

@@ -24,7 +24,7 @@ margin of what they already know. Look for books that
 For the topic asked about, or, if none was given, for the threads their reading and questions leave open:
 
 - **What do they already know?** List the books they have read on it, by `topics` and by judgement (a book on the Thirty Years' War is about Germany even if not tagged so), and what their chapters cover.
-- **How hard should it be?** Calibrate against books they rated: aim a step past "just right" and well short of "too hard".
+- **How hard should it be?** Calibrate against the books they rated, how engaging each was at that difficulty, and why they found them hard (a dense argument, many names, unfamiliar background). Aim a little past what they found moderate, and well short of too hard.
 - **What keeps them reading?** Look for patterns in engagement and thoughts: length, editing, pace, narrative or argument, memoir or synthesis.
 - **What have they asked?** A book that answers one of their open questions is usually the best pick.
 
@@ -59,4 +59,4 @@ Add the round to the end of `recommendations.md`:
 - *Title*, by Author (year). One line on why.
 ```
 
-Only books they have read go in `books.yml`. When they later log a book that was recommended here, add how it went to its line, e.g. "→ Read 2026-12: just right, gripping."
+Only books they have read go in `books.yml`. When they later log a book that was recommended here, add how it went to its line, e.g. "→ Read 2026-12: moderate, gripping."
