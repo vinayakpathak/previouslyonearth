@@ -205,6 +205,33 @@ gilliland:
       perfect. The sequence in which to narrate the events was perfect. I
       have been gifting this book to friends.
 
+hudson:
+  type: book
+  title: "Far Away and Long Ago: A History of My Early Life"
+  author: Hudson, W. H.
+  date: 1918
+  topics: [Argentina, pampas, gauchos, estancias, natural history, 19th century]
+  form: memoir
+  read:
+    when: 2026
+    status: finished
+    difficulty: easy
+    engagement: good
+    learned: |
+      Life in the pampas. I think this was the book where I started to
+      learn more and more about gauchos. Estancias also made an appearance
+      again.
+    thoughts: |
+      One motivation was that the flower book was intense and I was a bit
+      emotionally exhausted, so I wanted something lighter. Far Away and
+      Long Ago is just a child's diary growing up in the pampas. It was good
+      and enjoyable. Many stories were disconnected from each other, so it
+      was easy to read. There wasn't too much risk of losing track and
+      forgetting things. The author would also remind the reader of things
+      if the last time it was mentioned was many chapters ago. The only
+      small issue was that the English was a bit weird, because it was
+      written some time ago.
+
 bridges:
   type: book
   title: Uttermost Part of the Earth
