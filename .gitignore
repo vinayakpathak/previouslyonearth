@@ -2,5 +2,8 @@
 /previously-on-earth.pdf
 /previously-on-earth-print.pdf
 
+# Claude Code's settings for one computer; the shared ones are in .claude/.
+/.claude/settings.local.json
+
 .DS_Store
 __pycache__/

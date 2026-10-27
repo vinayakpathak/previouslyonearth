@@ -64,6 +64,14 @@ Straight quotes (`"…"`) and dashes (`--` for –, `---` for —) are converted
 
 `books.yml` lists the books you have read for the book. All of them appear at the back under **Bookshelf**, cited or not. Each entry has a key, like `bridges:`, that you use to cite it. The format is [Hayagriva's](https://github.com/typst/hayagriva/blob/main/docs/file-format.md).
 
+`books.yml` is also your reading record. Each entry has `topics` (places, periods and themes) and a `read:` section with your notes: how hard and how engaging you found the book, what you learned, what it left you curious about, and anything else. These never appear in the book. The fields are described at the top of `books.yml`. You don't have to write them yourself: tell Claude what you thought of a book and it will add the entry.
+
+## What to read next
+
+Ask Claude for a book, for example "a new book about Germany", or run `/recommend-books`. It reads `books.yml` and your chapters, and recommends a few books at the margin of what you know: ones that build on what you have read, are a little harder than comfortable, and are written in a way you have enjoyed. Each round of recommendations is recorded in `recommendations.md`.
+
+The steps it follows are in `.claude/skills/recommend-books/SKILL.md`, and `CLAUDE.md` tells Claude how this repo works. Both are in git, so they work on any computer with this repo.
+
 ## The samples
 
 `chapters/02-the-age-of-the-antonines.typ` is a sample chapter, from Gibbon's public-domain text, that shows the design. Delete it, and its `#include` line in `book.typ`, when you no longer need it. If `books.yml` is left with no entries, the Bookshelf page comes out empty. To leave it out, delete the `bibliography:` line in `book.typ`.

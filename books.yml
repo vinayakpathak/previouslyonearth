@@ -1,14 +1,52 @@
-# The bookshelf: every book read for this book, cited or not. All of them are
-# listed at the back under "Bookshelf".
+# Every book read for this book, with notes on each.
 #
-# Cite one in a chapter with its key: @bridges, or with a location,
+# All of them are listed at the back of the book under "Bookshelf", cited or
+# not. Cite one in a chapter with its key: @bridges, or with a location,
 # @bridges[p. 12]. Citations become footnotes.
 #
-# The format is Hayagriva's:
+# The book's details (type, title, author, date) are in Hayagriva's format:
 # https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+#
+# Two more fields are for choosing what to read next. They never appear in
+# the book.
+#
+#   topics       places (countries, then regions), periods (centuries or
+#                named eras) and themes, e.g. [Germany, 19th century,
+#                industrial revolution]. Reuse a topic already used here
+#                before making a new one.
+#   read:        what you made of the book
+#     when         month you finished or stopped, e.g. 2026-10
+#     status       finished, reading or abandoned
+#     difficulty   too easy, easy, just right, hard or too hard
+#     engagement   gripping, good, okay or slog
+#     learned      what it taught you that you didn't know
+#     questions    what it left you curious about
+#     thoughts     anything else
+#
+# Only status, difficulty and engagement are needed.
 
 bridges:
   type: book
   title: Uttermost Part of the Earth
   author: Bridges, E. Lucas
   date: 1948
+  topics: [Argentina, Chile, Tierra del Fuego, Selk'nam, Yaghan, indigenous peoples, missionaries, settlers, 19th century, 20th century]
+  read:
+    status: finished
+    difficulty: easy
+    engagement: okay
+    learned: |
+      A reasonable amount about the Yaghans and the Onas (Selk'nam): their
+      own names for themselves, their sense of right and wrong, the many
+      reasons the Ona accepted for killing someone, and their marriages.
+    thoughts: |
+      Fun intermittently, and I did learn a reasonable amount about the
+      Yaghans and Onas, but overall it was way too long. It just felt like
+      all the pages from the author's diary without any editing. There were
+      some interesting chapters, but more than half the chapters were just
+      about very boring activities. It didn't really need five whole parts.
+      Each part was the same story: he goes to a new piece of land, tries to
+      settle there, clears out space for farms and roads, creates fences to
+      contain animals, goes out hunting for guanaco meat, and so on. After a
+      while it became rather repetitive. It could have been cut down to half
+      its size.
