@@ -264,3 +264,19 @@ bridges:
       because of the length it was difficult to remember who did what. Also
       the characters had hard-to-remember names, because they were from the
       tribes.
+
+mount:
+  type: book
+  title: "The Vineyard at the End of the World: Maverick Winemakers and the Rebirth of Malbec"
+  author: Mount, Ian
+  date: 2012
+  topics: [Argentina, Mendoza, wine, Malbec, economic history, colonial era, 20th century, 21st century]
+  form: narrative history
+  read:
+    status: abandoned
+    difficulty: too hard
+    engagement: slog
+    thoughts: |
+      I dropped it after reading the first chapter. I couldn't understand
+      what was going on in it. Too many new things were introduced in rapid
+      succession.

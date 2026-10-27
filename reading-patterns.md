@@ -27,9 +27,11 @@ disagree with.
   *(bridges, gilliland)*
 - **Academic, exhaustive treatments,** even on a subject you chose.
   *(hedges)*
-- **Many characters with unfamiliar names over many pages** are hard to keep
-  track of. Self-contained episodes, and reminders of what came long before,
-  make a book easier. *(bridges, hudson)*
+- **Too many new names and ideas at once.** Mount's first chapter introduced
+  them in rapid succession, and you dropped the book. Bridges' many
+  characters with unfamiliar names were hard to keep track of over many
+  pages. Self-contained episodes, and reminders of what came long before,
+  make a book easier. *(mount, bridges, hudson)*
 - **Slow starts:** Winter took a third of the book to win you over. *(winter)*
 
 ## How you move between books
@@ -44,6 +46,7 @@ disagree with.
 
 ## Not yet known
 
-- **How hard is too hard?** Nothing so far was rated hard, and most
-  difficulty ratings are Claude's guesses. Only Bridges (moderate) and Hudson
-  (easy) are your own.
+- **How hard is too hard?** The one book that was too hard, Mount's, was too
+  hard because it introduced too much too fast. Most other difficulty
+  ratings are Claude's guesses: only Bridges (moderate) and Hudson (easy) are
+  your own. *(mount, bridges, hudson)*
