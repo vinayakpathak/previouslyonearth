@@ -24,7 +24,7 @@
 // design. Replace them with your own.
 
 #part[Argentina]
-#include "chapters/01-a-possession-for-all-time.typ"
+#include "chapters/01-a-few-facts-about-argentina.typ"
 
 #part[Germany]
 #include "chapters/02-the-age-of-the-antonines.typ"
