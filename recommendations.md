@@ -9,6 +9,8 @@ are in `books.yml`.
 
 - *City of Djinns: A Year in Delhi*, by William Dalrymple (1993). The pick:
   travel memoir with Delhi's history peeled back era by era, and very funny.
+  → Already read in 2025, before this record began: one of the user's
+  favourites, though most of its history has since been forgotten.
 - *Midnight's Furies: The Deadly Legacy of India's Partition*, by Nisid Hajari
   (2015). In reserve: a page-turner on Partition, told through a few leaders.
 - *Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity*,

@@ -8,12 +8,14 @@ disagree with.
 
 ## What works
 
-- **The benchmark is *A Flower Traveled in My Blood*:** a big history told
+- **Your favourites:** *A Flower Traveled in My Blood*, a big history told
   through one family and real people, emotionally vivid, perfectly paced and
-  well ordered. *(gilliland)*
+  well ordered; and *City of Djinns*, a year in Delhi in chapters that
+  alternate between the author's life at the time and a lesson in the
+  city's history. *(gilliland, dalrymple)*
 - **Travel memoir with history mixed in:** a writer living in or travelling
-  through a place and teaching its history along the way. Three for three so
-  far. *(france, durrell, winter)*
+  through a place and teaching its history along the way. Four for four so
+  far. *(dalrymple, france, durrell, winter)*
 - **A few real people, written by someone who got to know them.**
   *(guerriero, gilliland)*
 - **Humour keeps you reading.** *(durrell)*

@@ -29,6 +29,37 @@
 #
 # Only status, difficulty and engagement are needed.
 
+dalrymple:
+  type: book
+  title: "City of Djinns: A Year in Delhi"
+  author: Dalrymple, William
+  date: 1993
+  topics: [India, Delhi, Partition, Mughal Empire, British Raj, Sufism, djinns, hijras, Unani medicine, 20th century]
+  form: travel memoir
+  read:
+    when: 2025
+    status: finished
+    difficulty: moderate
+    engagement: gripping
+    learned: |
+      A few things, but I have forgotten most of them by now, I think. Here
+      is what I remember:
+      - There are still people in Delhi that were affected by Partition
+        quite directly.
+      - Aurangzeb was really evil. He killed his brother and sent his head
+        to his father, who he had imprisoned.
+      - The Muslims in Delhi also have something akin to ayurveda, where
+        they do weird things for treatment. They have doctors and stuff.
+      - Eunuchs have interesting lives. They have their own communities,
+        with hierarchies and everything. They have a big network of
+        informants that tells them which home has a wedding, etc.
+      - There was a story about a certain djinn, that I have forgotten, but
+        it was somehow connected to Adam from Adam and Eve.
+    thoughts: |
+      One of my favorite books. I liked the style where the chapters
+      alternated between a diary of things happening to the author in the
+      moment and some lesson about Delhi's history.
+
 guerriero:
   type: book
   title: "A Simple Story: The Last Malambo"
