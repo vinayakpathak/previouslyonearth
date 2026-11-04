@@ -16,3 +16,28 @@ are in `books.yml`.
 - *Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity*,
   by Katherine Boo (2012). In reserve: a few families in a Mumbai slum,
   reported over years.
+
+## 2026-10-29: books about Panama
+
+- *Panama Fever*, by Matthew Parker (2007). The pick: the building of the
+  canal, told through the people who built it, including the West Indian
+  workers' own letters and diaries.
+- *Panama: The Whole Story*, by Kevin Buckley (1991). The dictatorship
+  thread from Argentina: Noriega's fall and the 1989 US invasion, told like a
+  thriller.
+- *The Darkest Jungle: The True Story of the Darien Expedition and America's
+  Ill-Fated Race to Connect the Seas*, by Todd Balf (2003). A survival story
+  from the hunt for a canal route, half a century before the canal.
+
+## 2026-11-04: books about Rome
+
+- *Rubicon: The Last Years of the Roman Republic*, by Tom Holland (2003). The
+  pick: how the Republic fell to strongmen, from Marius and Sulla to Caesar
+  and Augustus, told as a gripping narrative. The dictatorship thread from
+  Argentina, at its origin.
+- *A Day in the Life of Ancient Rome*, by Alberto Angela, translated by Gregory
+  Conti (2009). The light companion: one day in AD 115, hour by hour, all
+  everyday life and customs, with almost no names.
+- *A Traveller in Rome*, by H. V. Morton (1957). Travel writing, the form that
+  has worked every time: Morton walks 1950s Rome and tells its history, from
+  the Forum to the Pope at his window.
