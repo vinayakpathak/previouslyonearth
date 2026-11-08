@@ -15,3 +15,5 @@ Yahgans were very anti-murder but Onas had many legal reasons for murdering some
 Weddings were a non-event among the Onas. The groom would simply bring the bride home and start living together. It was common to have multiple wives, and there were rare occasions when the wives were related to each other. 
 
 I learned all this from E. Lucas Bridges, who was born to British parents in the late 1800s in Tierra del Fuego and spent a large chunk of his adult life as a core part of the Ona tribe. He later wrote the book _Uttermost Part of the Earth_ containing observations about his life.@bridges For example, he recounts the story of an Ona man who desperately wanted a wife. When his group raided the neighbouring group for wives, he took one whose husband was killed. She was in an advanced stage of pregnancy and later gave birth to a child, who, when older became the man's second wife, and eventually became pregnant with the man's child. When this child was born, the two wives took turns to take care of it. 
+
+#ornament
