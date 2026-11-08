@@ -41,3 +41,17 @@ are in `books.yml`.
 - *A Traveller in Rome*, by H. V. Morton (1957). Travel writing, the form that
   has worked every time: Morton walks 1950s Rome and tells its history, from
   the Forum to the Pope at his window.
+
+## 2026-11-06: books about Vatican City
+
+- *The Kidnapping of Edgardo Mortara*, by David I. Kertzer (1997). The pick:
+  in 1858 the Pope's police take a six-year-old from his Jewish family to be
+  raised Catholic, and the outcry helps end the popes' kingdom. Gilliland's
+  stolen children, a century earlier.
+- *The Vatican Diaries*, by John Thavis (2013). The light companion: a
+  reporter's thirty years on the Vatican beat, in funny, self-contained
+  episodes, ending with Benedict XVI.
+- *The Pope and Mussolini: The Secret History of Pius XI and the Rise of
+  Fascism in Europe*, by David I. Kertzer (2014). The stretch: the 1929 deal
+  with Mussolini that made Vatican City, and the dictatorship thread again.
+  Best read after Mortara.
