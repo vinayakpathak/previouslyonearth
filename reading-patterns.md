@@ -19,15 +19,22 @@ disagree with.
 - **A few real people, written by someone who got to know them.**
   *(guerriero, gilliland)*
 - **Humour keeps you reading.** *(durrell)*
+- **Places you know.** The part of *Smoke and Ashes* you found interesting was
+  the opium trade in Bihar, since you grew up in Patna. *(ghosh)*
 
 ## What doesn't
 
-- **Material beyond what you came for:** a long tangent, or every claim
-  weighed from all angles. *(timerman, hedges)*
+- **Material beyond what you came for:** a long tangent, every claim weighed
+  from all angles, or a lot about things you didn't care about. *(timerman,
+  hedges, ghosh)*
 - **A personal story that leaves the country out.** Mangold's memoir was a
   childhood at school with almost nothing about Germany, and you skimmed the
   second half. A memoir works for you when it teaches the place and its
   history along the way. *(mangold, against france and winter)*
+- **History with only a frame of memoir.** *Smoke and Ashes* is billed as a
+  writer's journey, but it reads more like a history book than a memoir, and
+  you skimmed the last three chapters. The memoirs that worked tell the
+  author's own story first. *(ghosh, against dalrymple and france)*
 - **Repetition and padding, not length.** Bridges felt twice as long as it
   needed to be, but Gilliland, at about 470 pages, was hard to put down.
   *(bridges, gilliland)*
@@ -36,8 +43,9 @@ disagree with.
 - **Too many new names and ideas at once.** Mount's first chapter introduced
   them in rapid succession, and you dropped the book. Bridges' many
   characters with unfamiliar names were hard to keep track of over many
-  pages. Self-contained episodes, and reminders of what came long before,
-  make a book easier. *(mount, bridges, hudson)*
+  pages. *Smoke and Ashes* had too many names too, and was hard to follow.
+  Self-contained episodes, and reminders of what came long before, make a
+  book easier. *(mount, bridges, ghosh, hudson)*
 - **Slow starts:** Winter took a third of the book to win you over. *(winter)*
 
 ## How you move between books
