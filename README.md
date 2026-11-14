@@ -12,7 +12,7 @@ make print    # previously-on-earth-print.pdf, on white paper for printing
 
 Typst 0.15.1 is installed at `~/.local/bin/typst`. The first run downloads one small Typst package, [droplet](https://typst.app/universe/package/droplet), which flows the text around the decorated initials. After that the book builds offline.
 
-In VS Code, the Tinymist extension shows a live preview. Open `book.typ` and run **Typst Preview: Preview Opened File**. `.vscode/settings.json` points Tinymist to the book's fonts. If it reports an unknown font, reload the window once.
+In VS Code, the Tinymist extension shows a live preview. Open `book.typ` and run **Typst Preview: Preview Opened File**. `.vscode/settings.json` points Tinymist to the book's fonts, and turns on autosave, so files are saved a moment after you stop typing. If it reports an unknown font, reload the window once.
 
 ## Write a chapter
 
