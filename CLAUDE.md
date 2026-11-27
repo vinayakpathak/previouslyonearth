@@ -26,9 +26,9 @@ Use the `recommend-books` skill.
 
 `argentina_trip/` is for the user's trip to Argentina. They are in Buenos Aires for a month from 25 November 2026. `suggestions.md` lists the places in the city you have suggested, tied to their books, with the best times to go. `diary.md` records where they have been.
 
-- When they tell you about a place they visited, add a dated entry at the end of `diary.md`, in their words, fixing only typos.
+- When they tell you about a place they visited, add it to `diary.md` under the date of the visit, keeping the days in order. Use their words, fixing only typos. Then commit and push to `main` without asking.
 - Before suggesting places, read the diary, and don't suggest places they have already been.
 
 ## Git
 
-Commit straight to `main` and push `main`, unless told otherwise. Do this when asked, and after logging a book.
+Commit straight to `main` and push `main`, unless told otherwise. Do this when asked, after logging a book, and after adding to the trip diary.

@@ -2,6 +2,10 @@
 
 Where you have been on the trip, in your own words, with the newest day at the end. Claude reads this before suggesting places, so as not to suggest one twice. Its suggestions are in [suggestions.md](suggestions.md).
 
+## Before 26 November 2026: Güerrín
+
+The pizza was decent. Incredibly fatty. Not something I want to go to again and again.
+
 ## Thursday 26 November 2026: Plaza de Mayo and La Ideal
 
 We went to Plaza de Mayo at 3:30 and we saw the Madres march. It gave me goosebumps and I also felt emotional to know that those women had their kids kidnapped and they never found them. We marched with the Madres for a bit. This was really the highlight of the day. I felt quite some solidarity with them for some reason, even though I don't really have much to do with their movement.
