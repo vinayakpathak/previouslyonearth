@@ -22,6 +22,13 @@ When the user tells you about a book they have read, add it to `books.yml`, or u
 
 Use the `recommend-books` skill.
 
+## The Argentina trip
+
+`argentina_trip/` is for the user's trip to Argentina. They are in Buenos Aires for a month from 25 November 2026. `suggestions.md` lists the places in the city you have suggested, tied to their books, with the best times to go. `diary.md` records where they have been.
+
+- When they tell you about a place they visited, add a dated entry at the end of `diary.md`, in their words, fixing only typos.
+- Before suggesting places, read the diary, and don't suggest places they have already been.
+
 ## Git
 
 Commit straight to `main` and push `main`, unless told otherwise. Do this when asked, and after logging a book.
