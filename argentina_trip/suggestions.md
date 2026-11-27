@@ -95,6 +95,21 @@ Claude picked this for Thursday 26 November, but it works on any night. It puts 
 - **Before,** on a Thursday: the Mothers' march in Plaza de Mayo at 15:30. From there La Ideal is about 15 minutes' walk up Diagonal Norte.
 - **After:** El Beso (Riobamba 416, a few blocks further along Corrientes) has a milonga most nights; check its Instagram (@elbesotango) first. Winter danced on Thursdays and arrived around 1 in the morning.
 
+## Eva Perón (Hedges, France, Winter, Mount)
+
+Added on 27 November 2026, when you said you'd like to see more of Evita. In the order of her story:
+
+- **Luna Park** (Corrientes and Bouchard). In the usual telling, she met Perón here on 22 January 1944, at a benefit for the victims of the San Juan earthquake. Some historians put their first meeting a few days earlier. **When:** any time, from outside.
+- **Museo Evita** (Lafinur 2988). Until the 1955 coup the house was a shelter run by her foundation for single mothers, and for widowed or separated women with children. France and Mount both write about the foundation. **When:** Tuesday to Sunday, 11:00–19:00.
+- **The steel Evitas on 9 de Julio** (at Belgrano). On 22 August 1951 she spoke from a stage here, in front of what was then the Ministry of Public Works, to a huge crowd that wanted her to run for vice-president. Nine days later she turned it down on the radio. Since 2011 the building has carried two giant steel portraits of her. In 2026 the government talked of taking them down and demolishing the building, so don't leave it too late. **When:** any time.
+- **Plaza Evita and the Biblioteca Nacional** (Libertador and Agüero). She died here on 26 July 1952, in the presidential residence, the Palacio Unzué. The military government that overthrew Perón in 1955 knocked it down, and the National Library was later built on the site. A statue of her by Ricardo Gianetti has stood in the plaza since 1999. **When:** any time. It's ten minutes' walk from Recoleta cemetery.
+- **The CGT** (Azopardo 802). Her embalmed body lay on the second floor of the trade unions' headquarters from 1952 until an army commando took it in November 1955. France describes an office block, near a junction I couldn't make out, where it was then "hidden in an attic" before it was smuggled out of the country in 1957. **When:** any time, from outside. It's ten minutes' walk south of Plaza de Mayo.
+- **Recoleta cemetery.** She lies in the Duarte family vault, "about five metres under" (France). See Cemeteries, above.
+- **Day trip: the República de los Niños** (Manuel B. Gonnet, near La Plata). A child-sized city from the Peronist years, which France says was "regularly claimed as the inspiration for Disneyland". **When:** the park is open daily and free; its buildings open roughly 9:00–18:00, so check.
+- **The film.** In Winter's book, a call for tango dancers turns out to be a search for extras for *Evita* (1996), in which Madonna sang from the real Casa Rosada balcony. France's chapter "Evita Aflame" covers the fuss when Hollywood came: graffiti saying "Evita is sacred" and "Evita belongs to the workers".
+
+Two outings cover most of it: downtown (Luna Park, the CGT, then 9 de Julio, about an hour on foot), and the north side in a morning (Recoleta at 9:00, Plaza Evita, then the Museo Evita from 11:00).
+
 ## Sources
 
 - Mothers' march: [Tiempo Argentino](https://www.tiempoar.com.ar/ta_article/madres-abuelas-y-representantes-de-la-cgt-cta-y-utep-concretaron-un-acto-por-los-derechos-humanos-y-en-rechazo-a-las-politicas-de-milei/amp/), [Conclusión](https://www.conclusion.com.ar/?p=1364904)
@@ -128,3 +143,9 @@ Claude picked this for Thursday 26 November, but it works on any night. It puts 
 - [Polo Open](https://www.argentina.travel/novedades/como-ver-polo-en-la-argentina)
 - [Holidays](https://chequeado.com/el-explicador/feriados-2026-que-dias-no-se-trabaja-y-cuales-son-los-fines-de-semana-largos-en-la-argentina/)
 - [Hudson museum](https://gba.gob.ar/node/42041)
+- Luna Park: [Infobae (2024)](https://www.infobae.com/sociedad/2024/01/21/a-80-anos-que-comenzo-el-romance-entre-peron-y-eva-mitos-y-verdades-del-encuentro-en-el-luna-park-que-cambio-la-historia/), [Infobae (2026)](https://www.infobae.com/sociedad/2026/01/18/un-terremoto-una-colecta-y-el-primer-encuentro-entre-peron-y-eva-duarte-previo-al-festival-benefico-del-luna-park/)
+- Museo Evita's house: [Wikipedia](https://en.wikipedia.org/wiki/Evita_Museum), [city heritage listing](https://buenosaires.gob.ar/areas/cultura/cpphc/sitios/detalle.php?id=55)
+- 9 de Julio: [La Izquierda Diario](https://www.laizquierdadiario.com/A-66-anos-del-Cabildo-Abierto-del-justicialismo), [Tiempo Argentino](https://www.tiempoar.com.ar/ta_article/imagenes-para-un-mito-de-acero/), [El Ancasti](https://www.elancasti.com.ar/politica-y-economia/el-gobierno-evalua-demoler-el-edificio-la-imagen-gigante-evita-la-9-julio-n569703), [Perfil](https://noticias.perfil.com/noticias/informacion-general/el-escultor-de-la-evita-de-9-de-julio-le-contesto-al-ex-de-pampita-que-quiere-sacarla.phtml)
+- Plaza Evita: [Ámbito](https://www.ambito.com/politica/eva-peron/que-paso-el-lugar-el-que-murio-evita-n5494775), [city heritage listing](https://buenosaires.gob.ar/areas/cultura/cpphc/sitios/detalle.php?id=27), [Turismo BA](https://turismo.buenosaires.gob.ar/en/article/political-monuments)
+- CGT: [Unidiversidad](https://www.unidiversidad.com.ar/el-robo-del-cuerpo-de-eva-de-una-obsesion-psicopata-al-plan-furtivo-contra-un-simbolo-peligroso), [Público](https://www.publico.es/internacional/robo-cadaver-eva-peron-paso-cuerpo-primera-dama-peronismo.html)
+- República de los Niños: [Canal 26](https://www.canal26.com/turismo/2026/04/13/la-republica-de-los-ninos-en-buenos-aires-donde-queda-y-como-llegar-en-tren/), [iProfesional](https://www.iprofesional.com/turismo/428694-republica-de-los-ninos-2025-precios-ofertas-y-como-llegar)
