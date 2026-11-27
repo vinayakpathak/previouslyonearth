@@ -38,8 +38,9 @@ disagree with.
 - **Repetition and padding, not length.** Bridges felt twice as long as it
   needed to be, but Gilliland, at about 470 pages, was hard to put down.
   *(bridges, gilliland)*
-- **Academic, exhaustive treatments,** even on a subject you chose.
-  *(hedges)*
+- **Academic, exhaustive treatments,** even of a great story. Evita's life
+  fascinated you, with its drama and heroism, but you could have skipped
+  Hedges's technical detail. *(hedges)*
 - **Too many new names and ideas at once.** Mount's first chapter introduced
   them in rapid succession, and you dropped the book. Bridges' many
   characters with unfamiliar names were hard to keep track of over many
@@ -53,8 +54,9 @@ disagree with.
 - **You follow threads.** France's mentions of Eva Perón led to Hedges, and an
   interest in Argentina's animals led to Durrell. The dictatorship runs
   through France, Timerman and Gilliland. Pick the next book on a thread in a
-  form you enjoy, not just the most authoritative one. *(france, hedges,
-  durrell, timerman, gilliland)*
+  form you enjoy, not just the most authoritative one. Evita's thread is
+  still open: her story fascinated you, though Hedges told it too
+  academically. *(france, hedges, durrell, timerman, gilliland)*
 - **After an intense book, you want something lighter.** *(hudson after
   gilliland)*
 
