@@ -29,8 +29,8 @@ Where you have already been is in [diary.md](diary.md).
 ## The dictatorship (France, Timerman, Gilliland)
 
 - **The Mothers' march, Plaza de Mayo.** France watched them gather "every Thursday afternoon, as they had done since 1977". They still march, around the pyramid, where their white headscarves are painted on the ground. **When:** Thursdays at 15:30.
-- **ESMA** (Av. del Libertador 8151). This is the Navy Mechanics School, France's "most terrible concentration camp of all", now a museum. Babies born to prisoners here were taken and given away, the crime at the centre of Gilliland's book. On the same grounds, the Abuelas run the Casa por la Identidad. **When:** Tuesday to Sunday, 10:00–17:00. Arrive at 10:00 on a weekday, allow 2–3 hours, and take the English audioguide. The Casa por la Identidad lists guided visits on Wednesdays at 15:30 and Thursdays at 11:00, but the listing is old, so check.
-- **Parque de la Memoria** (Costanera Norte 6745). A wall of names of the disappeared stands on the shore of the river where, as France writes, the death flights dropped them. **When:** daily, 10:00–18:00. Go in the late afternoon, after ESMA, which is on the same side of town.
+- **ESMA** (Av. del Libertador 8151). This is the Navy Mechanics School, France's "most terrible concentration camp of all", now a museum. Babies born to prisoners here were taken and given away, the crime at the centre of Gilliland's book. France met a survivor who had seen lists pinned to a wall, on which military staff noted "the characteristics they were looking for in an adoptive baby". On the same grounds, the Abuelas run the Casa por la Identidad. **When:** 10:00–17:00. The national site says Tuesday to Sunday and the Espacio Memoria site says Wednesday to Saturday, so Saturday is safe. Arrive at 10:00, allow 2–3 hours, and take the English audioguide. On Saturdays there are guided visits in Spanish at 11:00 and 14:00, with no booking. The Casa por la Identidad lists guided visits on Wednesdays at 15:30 and Thursdays at 11:00, but the listing is old, so check.
+- **Parque de la Memoria** (Costanera Norte 6745). A wall of names of the disappeared stands on the shore of the river where, as France writes, the death flights dropped them: she cites the confession of Adolfo Scilingo, a navy officer, to throwing drugged prisoners out of planes on night flights. **When:** daily, 10:00–18:00; its exhibition hall, the Sala PAyS, opens at 11:00. Go in the late afternoon, after ESMA, which is on the same side of town.
 
 ## Cemeteries (France, Hedges, Bridges)
 
@@ -63,6 +63,7 @@ Where you have already been is in [diary.md](diary.md).
 
 - **Feria de Mataderos** (Lisandro de la Torre and Av. de los Corrales). There's folk dancing in the street, gaucho riding games, locro and empanadas, and the small Museo Criollo de los Corrales. The barrio is named after the slaughterhouses that replaced Hudson's south-side "killing-grounds". Someone in Guerriero's book lives here and calls it "a very unfortunate name". It's your best chance of seeing malambo: Laborde is in January, and no Buenos Aires qualifier turned up. **When:** Sundays, 11:00–19:00, until the end of December, except in rain. It's an hour west, so arrive around 12:00–13:00 for lunch and stay for the afternoon dancing.
 - **Museo de Arte Popular José Hernández** (Av. del Libertador 2373). Gaucho silver, mate gourds and ponchos. It's named after the author of *Martín Fierro*, which Guerriero's dancers read. **When:** Tuesday to Friday 13:00–19:00, weekends 10:00–20:00, free on Wednesdays.
+- **La Morena** (Austria 2032, between Juncal and French). A restaurant of northern food that turns into a peña every night: from about 23:00, regulars and guests play guitar and sing at the tables. They play chacareras, zambas and cuecas, and Guerriero's dancers dance the zamba and the cueca at Laborde. Order empanadas salteñas, humita or a tamal. **When:** any night from about 22:00. The singing gets going after midnight, and from Thursday to Saturday it runs late. Book on 11 6016-9415.
 
 ## Tierra del Fuego (Bridges, your chapter)
 
@@ -113,8 +114,8 @@ Two outings cover most of it. Downtown, in daylight: the steel Evitas, then the 
 ## Sources
 
 - Mothers' march: [Tiempo Argentino](https://www.tiempoar.com.ar/ta_article/madres-abuelas-y-representantes-de-la-cgt-cta-y-utep-concretaron-un-acto-por-los-derechos-humanos-y-en-rechazo-a-las-politicas-de-milei/amp/), [Conclusión](https://www.conclusion.com.ar/?p=1364904)
-- ESMA: [argentina.gob.ar](https://www.argentina.gob.ar/derechoshumanos/museo-sitio-de-memoria-esma/en), [ANDAR](https://www.andaragencia.org/?p=32875)
-- [Parque de la Memoria](https://parquedelamemoria.org.ar/?p=1239)
+- ESMA: [argentina.gob.ar](https://www.argentina.gob.ar/derechoshumanos/museo-sitio-de-memoria-esma/en), [ANDAR](https://www.andaragencia.org/?p=32875), [Espacio Memoria](https://www.espaciomemoria.ar/visitanos/), [Turismo BA](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/museo-sitio-de-memoria-esma)
+- Parque de la Memoria: [its site](https://parquedelamemoria.org.ar/?p=1239), [Sala PAyS hours (city)](https://buenosaires.gob.ar/gcaba_historico/noticias/la-memoria-de-la-coleccion-una-muestra-historica-que-une-al-parque-de-la)
 - Recoleta: [city site](https://buenosaires.gob.ar/gcaba_historico/gobierno/gestion-comunal/cementerios-de-la-ciudad/visitas-turisticas-al-cementerio-de-la-recoleta), [BA Times](https://www.batimes.com.ar/news/amp/culture/the-famous-recoleta-cemetery-is-now-charging-tourists-to-enter.phtml)
 - [Chacarita tours](https://turismo.buenosaires.gob.ar/es/atractivo/cementerio-de-la-chacarita)
 - Bridges graves: [Wikipedia](https://en.wikipedia.org/wiki/Lucas_Bridges), [patbrit.org](https://www.patbrit.org/eng/cmy/chacarita.htm)
@@ -133,6 +134,7 @@ Two outings cover most of it. Downtown, in daylight: the steel Evitas, then the 
 - [Mataderos](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/feria-de-mataderos)
 - [San Telmo fair](https://buenosaires.gob.ar/museos/buenos-aires-museo/ferias-permanentes-y-temporarias)
 - [José Hernández museum](https://static.buenosaires.gob.ar/sites/default/files/2023-04/Folleto%20Manos%20a%20la%20obra%20%281%29.pdf)
+- La Morena: [El Cronista](https://www.cronista.com/clase/break/una-pena-folclorica-en-el-corazon-de-buenos-aires-sirven-las-mejores-empanadas-y-hay-musica-en-vivo-todas-las-noches/), [El Destape (2026)](https://www.eldestapeweb.com/atr/plan-ideal-este-25-mayo-pena-imperdible-ciudad-buenos-aires-202652512427)
 - [Museo Etnográfico](https://museo.filo.uba.ar/exhibitions)
 - [Librería de Ávila](https://turismo.buenosaires.gob.ar/atractivo/libreria-avila), [*Los Onas* record](https://bpgsm.bibliosistemas.com/catalogo/Record/FONGE018449/Versions)
 - Rodin and Rosas: [Turismo BA](https://turismo.buenosaires.gob.ar/es/article/monumentos-en-palermo), [Canal 26](https://www.canal26.com/historia/2026/09/11/el-monumento-mas-feo-de-sarmiento-esta-en-palermo-se-hizo-en-venganza-contra-rosas-y-su-amante-lo-odio/)
